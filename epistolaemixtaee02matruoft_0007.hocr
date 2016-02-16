@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaemixtaee02matruoft_0007.png"; bbox 0 0 2618 4152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 23 184 2166 302">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 23 184 2166 302">
+     <span class='ocr_line' id='line_1_1' title="bbox 23 184 2166 302; baseline 0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 23 247 26 252; x_wconf 94' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 134 219 729 286; x_wconf 87' lang='lat' dir='ltr'><strong>MONUMENTA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 790 184 1298 284; x_wconf 77' lang='lat' dir='ltr'><strong>HISTORICA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1352 219 1904 288; x_wconf 84' lang='lat' dir='ltr'>SOCIETATIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1950 223 2166 302; x_wconf 85' lang='lat' dir='ltr'><strong>JESU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 315 348 1993 395">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 315 348 1993 395">
+     <span class='ocr_line' id='line_1_2' title="bbox 315 348 1993 395; baseline 0.002 -8"><span class='ocrx_word' id='word_1_6' title='bbox 315 352 357 388; x_wconf 83' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_7' title='bbox 391 351 671 388; x_wconf 86' lang='lat' dir='ltr'>PATRIBUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 710 350 970 395; x_wconf 87' lang='lat' dir='ltr'>EJUSDEM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1008 348 1340 386; x_wconf 83' lang='lat' dir='ltr'>SOCIETATIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1376 349 1528 386; x_wconf 88' lang='lat' dir='ltr'>NUNC</span> <span class='ocrx_word' id='word_1_11' title='bbox 1563 351 1780 388; x_wconf 82' lang='lat' dir='ltr'><strong>PRIMUM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1819 354 1993 391; x_wconf 87' lang='lat' dir='ltr'>EDITA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 494 1891 1805 1984">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 494 1838 1805 1984">
+     <span class='ocr_line' id='line_1_3' title="bbox 494 1891 1805 1984; baseline 0.006 -7"><span class='ocrx_word' id='word_1_13' title='bbox 494 1891 1224 1982; x_wconf 83' lang='lat' dir='ltr'>EPISTOLAE</span> <span class='ocrx_word' id='word_1_14' title='bbox 1295 1897 1805 1984; x_wconf 81' lang='lat' dir='ltr'><strong>MIXTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
